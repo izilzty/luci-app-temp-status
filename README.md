@@ -1,4 +1,7 @@
 # luci-app-temp-status
+
+**软件包已添加中文翻译，请到Release内下载。由于是本地编译的，所以暂时只编译了支持21.02及以上版本的包，如果需要其他版本，请自行编译。**
+
 Temperature sensors data for the LuCI status page (OpenWrt webUI).
 
 OpenWrt >= 19.07.
